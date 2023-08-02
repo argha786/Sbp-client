@@ -1,0 +1,20 @@
+.contact{
+    color: whitesmoke;
+    width: 100%;
+    background-image: url('../Assets/Office.jpg');
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 190px;
+    padding-bottom: 190px;
+    font-size: xx-large;
+    line-height: 1.9;
+    opacity: 0.8;
+}
+.contact a{
+    color: white;
+
+    font-size: 1ch;
+}
